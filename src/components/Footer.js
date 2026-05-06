@@ -16,6 +16,7 @@ const Footer = ({ langData }) => {
                     <a href="/"><i className="fa-brands fa-facebook text-green-600 hover:text-green-700"></i></a>
                     <a href="/"><i className="fa-brands fa-twitter text-green-600 hover:text-green-700"></i></a>
                     <a href="/"><i className="fa-brands fa-instagram text-green-600 hover:text-green-700"></i></a>
+                <nbsp>
                 </div>
                 
                 <div className="footer-copy text-xs text-gray-500 mt-2">
